@@ -1,1 +1,4 @@
 # USA-visa-
+
+-Anaconda
+-vscode
